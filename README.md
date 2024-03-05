@@ -1,1 +1,1 @@
-# 339_StyleGuide
+# IAT339 StyleGuide
